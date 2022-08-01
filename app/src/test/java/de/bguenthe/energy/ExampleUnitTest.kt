@@ -1,4 +1,4 @@
-package de.bguenthe.costsforenegy
+package de.bguenthe.energy
 
 import org.junit.Test
 

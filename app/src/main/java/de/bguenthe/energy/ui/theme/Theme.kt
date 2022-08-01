@@ -1,4 +1,4 @@
-package de.bguenthe.costsforenegy.ui.theme
+package de.bguenthe.energy.ui.theme
 
 import android.app.Activity
 import android.os.Build
